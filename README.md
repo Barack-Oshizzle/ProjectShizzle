@@ -1,4 +1,4 @@
 ProjectShizzle
 ==============
 
-condorcraft110 and barackOshizzle messing around with Forge and modding in general.
+Condorcraft110 and BarackOshizzle messing around with Forge and modding in general.
